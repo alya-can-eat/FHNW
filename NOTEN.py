@@ -126,15 +126,21 @@ sem4 = {
 
 sem5 = {
     "pro5M" : [[], [None], 6],
-    "mea"   : [[], [None], 3],
+    "mea"   : [[(5, 0.4, "Prüfung"), 
+                (TBD, 0.6, "PBL-Projekt")], 
+               [None], 3],
     "minat" : [[], [TBD], 3],
     "dpev1" : [[], [None], 3],
     "c1d"   : [[], [TBD], 3],
-    "kt1"   : [[], [None], 3],
+    "kt1"   : [[(TBD, 0.34, "Teil Kristiansen"),
+                (TBD, 0.66, "Teil Küffer")], 
+               [None], 3],
     "c1m"   : [[], [TBD], 3],
-    "veva"  : [[], [None], 3],
-    "apd"   : [[], [None], 3],
-    "dan"   : [[], [TBD], 3],
+    "veva"  : [[(3.5, 0.5, "Präsentation"), 
+                (TBD, 0.5, "Bericht")], 
+               [None], 3],
+    "apd"   : [[5.1, TBD], [None], 3],
+    "wueb"  : [[4.3], [TBD], 3],
     "dglM"  : [[], [TBD], 3],
     "ChBCA1": [[], [None], 3]
 }
